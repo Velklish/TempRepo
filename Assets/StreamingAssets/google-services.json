@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074899881469",
+    "project_id": "edge-415ee",
+    "storage_bucket": "edge-415ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074899881469:android:c2b6bbfb1e67a487e05d94",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.EdgeReworked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074899881469-00sbk5eu816m05lev7mue9vatg52fred.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4M1hb3L5jdauiHhLXxgkUzJUKH2ztog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074899881469-00sbk5eu816m05lev7mue9vatg52fred.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
